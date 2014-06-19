@@ -1,12 +1,12 @@
-# revision 33142
+# revision 33643
 # category Package
 # catalog-ctan /macros/latex/contrib/dccpaper
-# catalog-date 2014-03-09 14:23:10 +0100
+# catalog-date 2014-04-23 19:13:08 +0200
 # catalog-license lppl1.3
-# catalog-version 1.1
+# catalog-version 1.2
 Name:		texlive-dccpaper
-Version:	1.1
-Release:	2
+Version:	1.2
+Release:	1
 Summary:	Typeset papers for the International Journal of Digital Curation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dccpaper
@@ -45,8 +45,11 @@ International Digital Curation Conference, beginning with the
 %doc %{_texmfdistdir}/doc/latex/dccpaper/README
 %doc %{_texmfdistdir}/doc/latex/dccpaper/README.txt
 %doc %{_texmfdistdir}/doc/latex/dccpaper/dccpaper-apacite.bib
+%doc %{_texmfdistdir}/doc/latex/dccpaper/dccpaper-base.doc
 %doc %{_texmfdistdir}/doc/latex/dccpaper/dccpaper-biblatex.bib
 %doc %{_texmfdistdir}/doc/latex/dccpaper/dccpaper.pdf
+%doc %{_texmfdistdir}/doc/latex/dccpaper/idcc.doc
+%doc %{_texmfdistdir}/doc/latex/dccpaper/ijdc-v9.doc
 #- source
 %doc %{_texmfdistdir}/source/latex/dccpaper/Makefile
 %doc %{_texmfdistdir}/source/latex/dccpaper/dccpaper.dtx
