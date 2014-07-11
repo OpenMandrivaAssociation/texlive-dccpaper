@@ -6,7 +6,7 @@
 # catalog-version 1.2
 Name:		texlive-dccpaper
 Version:	1.2
-Release:	1
+Release:	2
 Summary:	Typeset papers for the International Journal of Digital Curation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dccpaper
