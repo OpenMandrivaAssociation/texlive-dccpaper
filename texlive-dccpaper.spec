@@ -1,6 +1,6 @@
 Name:		texlive-dccpaper
-Version:	61763
-Release:	2
+Version:	67890
+Release:	1
 Summary:	Typeset papers for the International Journal of Digital Curation
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/dccpaper
