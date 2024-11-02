@@ -1,5 +1,5 @@
 Name:		texlive-dccpaper
-Version:	67890
+Version:	72097
 Release:	1
 Summary:	Typeset papers for the International Journal of Digital Curation
 Group:		Publishing
